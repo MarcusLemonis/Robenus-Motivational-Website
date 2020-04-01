@@ -24,6 +24,6 @@ Robenus' Motivational Website
    </p>
  Tell me an important person in your life below!
 <form action="https://docs.google.com/document/d/1N3XLEyp34Odu31ZifVX8p3BLNZvcC-KAMFaJ-j034MM/edit"</form>
-<input type="text" place holder="enter a name">
+<input type="text" place holder="enter a name" require>
  <button type="submit">Submit</button>
 </html>
